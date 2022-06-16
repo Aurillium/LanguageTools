@@ -1,0 +1,5 @@
+main: space.aurillium.languagetools.Main
+name: LanguageTools
+version: 1.18.0
+author: Aurillium (Memphis Marshall)
+api-version: 1.18

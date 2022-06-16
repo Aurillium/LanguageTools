@@ -1,0 +1,13 @@
+# Language (en_us): 
+# The default server language, enter a language that exists in Minecraft to download it,
+# or to use your own, enter a name, and in this plugin's folder create a folder called
+# 'lang' and put your language JSON file in it in the form:
+# `<language name>-<Minecraft version>.json`
+# For example, the file this plugin would generate by default is:
+# `en_us-1.18.2.json`
+language: en_us
+
+# Preload ([])
+# The list of languages to load into the plugin when the server starts up. The same rules
+# as with `language` apply.
+preload: []
